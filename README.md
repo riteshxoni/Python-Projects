@@ -1,2 +1,2 @@
 # Projects
-My BCA Projects
+My Python Projects
